@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\visual studio 2015-2017\operatorsystem\exp1_cupdispatch\exp1_cupdispatch\main.cpp(133): warning C4101: “f”: 未引用的局部变量
+d:\visual studio 2015-2017\operatorsystem\exp1_cupdispatch\exp1_cupdispatch\main.cpp(260): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio 2015-2017\operatorsystem\exp1_cupdispatch\exp1_cupdispatch\main.cpp(261): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio 2015-2017\operatorsystem\exp1_cupdispatch\exp1_cupdispatch\main.cpp(338): warning C4101: “f”: 未引用的局部变量
+d:\visual studio 2015-2017\operatorsystem\exp1_cupdispatch\exp1_cupdispatch\main.cpp(406): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Exp1_CUPDispatch.vcxproj -> D:\Visual Studio 2015-2017\OperatorSystem\Exp1_CUPDispatch\Debug\Exp1_CUPDispatch.exe
+  Exp1_CUPDispatch.vcxproj -> D:\Visual Studio 2015-2017\OperatorSystem\Exp1_CUPDispatch\Debug\Exp1_CUPDispatch.pdb (Partial PDB)

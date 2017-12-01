@@ -1,0 +1,14 @@
+﻿  Main.cpp
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(159): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(256): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(316): warning C4018: “<”: 有符号/无符号不匹配
+d:\visual studio 2015-2017\operatorsystem\exp4_storagemanagment\exp4_storagemanagment\main.cpp(338): warning C4018: “<”: 有符号/无符号不匹配
+  Exp4_StorageManagment.vcxproj -> D:\Visual Studio 2015-2017\OperatorSystem\Exp4_StorageManagment\Debug\Exp4_StorageManagment.exe
+  Exp4_StorageManagment.vcxproj -> D:\Visual Studio 2015-2017\OperatorSystem\Exp4_StorageManagment\Debug\Exp4_StorageManagment.pdb (Partial PDB)
